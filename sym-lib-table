@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/Libraries/New_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "PICduino_18F2550")(type "KiCad")(uri "${KIPRJMOD}/Libraries/PICduino_18F2550.kicad_sym")(options "")(descr ""))
+)
